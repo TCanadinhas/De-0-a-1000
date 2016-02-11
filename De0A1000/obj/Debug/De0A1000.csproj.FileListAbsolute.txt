@@ -1,0 +1,9 @@
+c:\users\talita.santos\documents\visual studio 2013\Projects\De0A1000\De0A1000\bin\Debug\De0A1000.exe.config
+c:\users\talita.santos\documents\visual studio 2013\Projects\De0A1000\De0A1000\bin\Debug\De0A1000.exe
+c:\users\talita.santos\documents\visual studio 2013\Projects\De0A1000\De0A1000\bin\Debug\De0A1000.pdb
+c:\users\talita.santos\documents\visual studio 2013\Projects\De0A1000\De0A1000\obj\Debug\De0A1000.csprojResolveAssemblyReference.cache
+c:\users\talita.santos\documents\visual studio 2013\Projects\De0A1000\De0A1000\obj\Debug\De0A1000.Properties.Resources.resources
+c:\users\talita.santos\documents\visual studio 2013\Projects\De0A1000\De0A1000\obj\Debug\De0A1000.csproj.GenerateResource.Cache
+c:\users\talita.santos\documents\visual studio 2013\Projects\De0A1000\De0A1000\obj\Debug\De0A1000.exe
+c:\users\talita.santos\documents\visual studio 2013\Projects\De0A1000\De0A1000\obj\Debug\De0A1000.pdb
+c:\users\talita.santos\documents\visual studio 2013\Projects\De0A1000\De0A1000\obj\Debug\De0A1000.Form1.resources
